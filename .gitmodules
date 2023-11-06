@@ -1,0 +1,3 @@
+[submodule "mini-app1"]
+	path = mini-app1
+	url = https://github.com/Acuity-Inc/techchallenge-template-rn-mini-app1
