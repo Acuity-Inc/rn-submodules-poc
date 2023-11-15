@@ -1,6 +1,3 @@
-[submodule "remote-app1"]
-	path = remote-app1
-	url = https://github.com/Acuity-Inc/rn-remote-app-1
 [submodule "mini-app2"]
 	path = mini-app2
 	url = https://github.com/Acuity-Inc/techchallenge-template-rn-mini-app2
