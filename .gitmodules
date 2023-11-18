@@ -7,3 +7,6 @@
 [submodule "rn-remote-app-1"]
 	path = rn-remote-app-1
 	url = https://github.com/Acuity-Inc/rn-remote-app-1
+[submodule "rn-remote-app-2"]
+	path = rn-remote-app-2
+	url = https://github.com/Acuity-Inc/rn-remote-app-2
